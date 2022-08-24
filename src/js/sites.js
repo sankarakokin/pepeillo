@@ -1,6 +1,6 @@
 // Cookies from this list are blocked by default
 const defaultSites = {
-  'Adweek': 'adweek.com',
+  'infolibre': 'infolibre.es',
   'Algemeen Dagblad': 'ad.nl',
   '\u00C1mbito': 'ambito.com',
   'American Banker': 'americanbanker.com',
